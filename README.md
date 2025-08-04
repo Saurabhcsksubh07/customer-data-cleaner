@@ -3,7 +3,7 @@ Customer Data Cleaner
 Internship Project – Data Cleaning & Visualization using Python and Tableau
 
 * Tableau Dashboard  
-  → View here: [https://public.tableau.com/authoring/CustomerDataCleanerTableauDashboard/Dashboard1#1](https://public.tableau.com/authoring/CustomerDataCleanerTableauDashboard/Dashboard1#1)
+  → View here: [https://public.tableau.com/authoring/CustomerDataCleanerTableauDashboard/Dashboard1#1](https://public.tableau.com/authoring/CustomerDataCleanerTableauDashboard/Dashboard1#1](https://public.tableau.com/views/CustomerDataCleanerTableauDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 * Project Summary  
   → This project focuses on cleaning and transforming messy customer data using Python (Pandas), followed by creating an interactive Tableau dashboard for visual analysis. It shows how disorganized data is cleaned and made ready for business insight.
@@ -65,4 +65,4 @@ Internship Project – Data Cleaning & Visualization using Python and Tableau
   → Created by: Saurabh  
   → Project Type: Part of Guvi HCL project 1st
   → Dashboard: 
-[➡️ Click here to view the Live Tableau Dashboard]https://public.tableau.com/authoring/CustomerDataCleanerTableauDashboard/Dashboard1#1
+[➡️ Click here to view the Live Tableau Dashboard][https://public.tableau.com/authoring/CustomerDataCleanerTableauDashboard/Dashboard1#1](https://public.tableau.com/views/CustomerDataCleanerTableauDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
