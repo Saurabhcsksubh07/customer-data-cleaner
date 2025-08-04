@@ -1,0 +1,10 @@
+CustomerName,Gender,Age,City,JoinDate,PhoneNumber
+Rahul Kumar,Male,28.0,Delhi,2022-03-15,9876543210
+Priya  Sharma,Female,31.0,Mumbai,,9876543210
+Amit Singh,Female,35.0,Patna,2020-07-10,9876543210
+Mohd. Ayaan,Male,24.0,Delhi,,Not Provided
+Unknown,,28.5,Delhi,,Not Provided
+Pooja Mishra,Female,27.0,Noida,,919876543210
+Ankit Raj,Male,28.5,Patna,,Not Provided
+Meena Devi,Female,29.0,Noida,,09876543210
+Meena Devi,Female,29.0,Noida,,9876543210
